@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ea8c50b6-15c7-449f-ba01-9160468cfbc6/deploy-status)](https://app.netlify.com/sites/chillrun/deploys)
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
